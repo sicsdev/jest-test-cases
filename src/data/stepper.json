@@ -1,0 +1,51 @@
+{
+    "value":{
+        "data1": {
+            "heading": "Power Your Brand Deals",
+            "subHead": "The simple way to sell, manage, and get paid for your Instagram, TikTok, and YouTube brand deals",
+            "placeholder": "Username",
+            "type":"text"
+        },
+
+        "data2": {
+            "heading": "Create Your Page",
+            "placeholder": "Full Name",
+            "type":"text",
+            "placeholder2": "Email",
+            "type2":"email",
+            "placeholder3": "Password",
+            "type3":"Password"
+        },
+        "data3": {
+            "heading": "Verify your email",
+            "subHead":"We sent an email to rohit12345@yopmail.com. Check your inbox and enter the 6-digit code to verify your email.",
+            "placeholder": "6-Digit Code",
+            "type":"text"
+        },
+        "data4": {
+            "heading": "Where are you located?",
+            "placeholder": "City",
+            "type":"text"
+        },
+        "data5": {
+            "heading": "Summarize yourself, this is your title shown on your profile",
+            "placeholder": "e.g. Fitness Content Creator",
+            "type":"text"
+        },
+        "data6": {
+            "heading": "Describe yourself and your content",
+            "type":"text",
+            "textBox":"Who are you and what type of content do you create? Who is your audience? Be specific as this will help you show up in searches."
+        },
+        "data7": {
+            "heading": "What's your gender?",
+            "radio1": "Female",
+            "radio2": "Male",
+            "radio3": "Other"
+        },
+        "data8":{
+            "heading":"Add your social channels",
+            "label":["Instagram","TikTok","YouTube","Twitter","Twitch","Website"]
+        }
+    }
+}
